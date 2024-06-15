@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Amrit Singhal and I'm a passionate Full Stack developer from India curretnly pursuing btech in computer science </h2>
+<h2 align="left">Hi 👋! My name is Amrit Singhal and I'm a passionate Full Stack developer from India currently pursuing btech in computer science </h2>
 
 ###
 
