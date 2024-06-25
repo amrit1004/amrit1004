@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nextjs<br>🎯 Goal To be a passionate developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nextjs<br>🎯 Goal To be a passionate Software developer</p>
 
 ###
 
